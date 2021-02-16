@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**Ayesha-42/Ayesha-42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi there 👋 This is Ayesha
+#### I am an undergrad student pursuing my Bachelor of Computer Science degree
+![I am an undergrad student pursuing my Bachelor of Computer Science degree](https://www.dropbox.com/s/yrpytqnnkoiosb3/34778.jpg?dl=0)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm striving to become an innovative, resourceful and efficient software developer. Although at the beginning of my learning curve of venturing out in this wonderland of IT I'm learning and absorbing the maximum at this stage of an exhilarating journey, in terms of career as well as life's milestones.
+
+Skills: Ruby / Python / HTML / CSS / JavaScript / PHP
+
+- 🔭 I’m currently working on my certification in Python from LinkedIn Learning module.
+                              Alongside some python baseline projects and applications.
+                              Setting up my Rasberry Pi web server to host my website
+                              Experimenting with Adobe softwares. in particular InDesign and Spark
+- ⚡ current Excitements and schedules: attending portfolio and CV chalking webinars
+                                        networking and exploring the remote university experience
+
+
+
+
