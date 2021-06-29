@@ -7,6 +7,7 @@
 I'm striving to become an innovative, resourceful and efficient software developer. Although at the beginning of my learning curve of venturing out in this wonderland of IT I'm learning and absorbing the maximum at this stage of an exhilarating journey, in terms of career as well as life's milestones.
 
 Skills: Ruby / Python / C# / HTML / CSS / JavaScript / PHP / mySQL
+
 Strengths: Front-end Dynamic Web Development, Software/ application programming, complex algorithmic tasks, 2-D game design in .NET and software design and patterns. 
 
 ### I've recently worked on 
@@ -31,7 +32,7 @@ Strengths: Front-end Dynamic Web Development, Software/ application programming,
                     online volunteer opportunities
                     enrol into the Emerging Leader University Program
                     Aim to take up another committee role
-                    
+                    make a discord bot
                     
 
 For further reference and to connect: https://www.linkedin.com/in/ayeshashaikh-42/ 
